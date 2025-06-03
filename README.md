@@ -14,9 +14,6 @@
 - 100% renewable datacenters by 2027
 - Justice for frontline communities like Boxtown (TN) and Cancer Alley (LA)
 
-**Addendum**: The #GreenTreatyZero AI Alliance recognizes that green datacenters could cut AI emissions and water use by 50%, but duplicative resource depletion is harming marginalized communities without their informed consent. This is a moral duty.
+**Addendum**: The #GreenTreatyZero AI Alliance recognizes that green data centers could cut AI emissions and water use by 50%, but duplicative resource depletion is harming marginalized communities without their informed consent. This is a moral duty.
 
 **Call to Action**: Read the full manifesto: [link to be added]
-git add MANIFESTO.md
-git commit -m "Add #GreenTreatyZero manifesto text"
-git push origin main
